@@ -6,3 +6,7 @@
 if (' ') alert('Yes');
 else alert('Nooo');
 ```
+
+### Homework Finished 23/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
